@@ -1,6 +1,6 @@
 ﻿using System;
 
-class MergingSort<T> where T: IComparable
+public class MergingSort<T> where T: IComparable
 {
     private static T[] aux;
     public static T[] Sort(T[] arr)
