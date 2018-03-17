@@ -15,8 +15,10 @@ class Program
 
             //Console.WriteLine(string.Join(" ", result));
 
-            var nested = new NestedLoops();
-            nested.Start();
+            //var nested = new NestedLoops();
+            //nested.Start();
+            var combsWithReps = new CombWithRepetitions();
+            combsWithReps.Start();
         }
     }
 }

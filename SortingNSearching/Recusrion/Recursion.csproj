@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CombWithRepetitions.cs" />
     <Compile Include="InvertingArray.cs" />
     <Compile Include="NestedLoops.cs" />
     <Compile Include="Program.cs" />
