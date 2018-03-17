@@ -8,11 +8,15 @@ class Program
     {
         while (true)
         {
-            string[] arr = Console.ReadLine().Split(' ');
+            //for inverting arrays:
+            //string[] arr = Console.ReadLine().Split(' ');
 
-            var result = InvertingArray<string>.Inverse(arr);
+            //var result = InvertingArray<string>.Inverse(arr);
 
-            Console.WriteLine(string.Join(" ", result));
+            //Console.WriteLine(string.Join(" ", result));
+
+            var nested = new NestedLoops();
+            nested.Start();
         }
     }
 }
