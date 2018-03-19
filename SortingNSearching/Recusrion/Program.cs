@@ -17,8 +17,10 @@ class Program
 
             //var nested = new NestedLoops();
             //nested.Start();
-            var combsWithReps = new CombWithRepetitions();
-            combsWithReps.Start();
+            //var combsWithReps = new CombWithRepetitions();
+            //combsWithReps.Start();
+            var hanoi = new TowerOfHanoi();
+            hanoi.Run();
         }
     }
 }
