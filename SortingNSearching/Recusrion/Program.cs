@@ -19,8 +19,11 @@ class Program
             //nested.Start();
             //var combsWithReps = new CombWithRepetitions();
             //combsWithReps.Start();
-            var hanoi = new TowerOfHanoi();
-            hanoi.Run();
+            //var hanoi = new TowerOfHanoi();
+            //hanoi.Run();
+
+            var combsWithout = new CombWithoutReps();
+            combsWithout.Run();
         }
     }
 }
