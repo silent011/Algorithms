@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 
 class Program
@@ -22,8 +21,11 @@ class Program
             //var hanoi = new TowerOfHanoi();
             //hanoi.Run();
 
-            var combsWithout = new CombWithoutReps();
-            combsWithout.Run();
+            //var combsWithout = new CombWithoutReps();
+            //combsWithout.Run();
+
+            var areas = new AreasInMatrix();
+            areas.Run();
         }
     }
 }

@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AreasInMatrix.cs" />
     <Compile Include="CombWithoutReps.cs" />
     <Compile Include="CombWithRepetitions.cs" />
     <Compile Include="InvertingArray.cs" />
