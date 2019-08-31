@@ -7,7 +7,7 @@ class Program
     {
         while (true)
         {
-            Inversions.Run();
+            test.Run();
         }
     }
 

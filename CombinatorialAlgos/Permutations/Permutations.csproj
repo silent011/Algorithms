@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A882956-8E8F-48A4-A1B1-9BD6191754E9}</ProjectGuid>
+    <ProjectGuid>{27391C19-4A26-4B46-A3C8-F56B32B96F6D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SortingNSearching</RootNamespace>
-    <AssemblyName>SortingNSearching</AssemblyName>
+    <RootNamespace>Permutations</RootNamespace>
+    <AssemblyName>Permutations</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,15 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinarySearch.cs" />
-    <Compile Include="InsertionSort.cs" />
-    <Compile Include="MergingSort.cs" />
-    <Compile Include="Inversions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuickSort.cs" />
-    <Compile Include="test.cs" />
-    <Compile Include="Words.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
