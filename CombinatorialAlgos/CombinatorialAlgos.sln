@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutateWRep", "PermutateWRep\PermutateWRep.csproj", "{B78B4C5F-8870-43B6-8902-ADDF71B72806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variations", "VariationsNoReps\Variations.csproj", "{2FDC2B92-272D-462E-BE5D-90261C354FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B78B4C5F-8870-43B6-8902-ADDF71B72806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B78B4C5F-8870-43B6-8902-ADDF71B72806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B78B4C5F-8870-43B6-8902-ADDF71B72806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDC2B92-272D-462E-BE5D-90261C354FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDC2B92-272D-462E-BE5D-90261C354FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDC2B92-272D-462E-BE5D-90261C354FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDC2B92-272D-462E-BE5D-90261C354FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
