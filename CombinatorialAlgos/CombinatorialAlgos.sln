@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binomial", "Binomial\Binomi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snakes", "Snakes\Snakes.csproj", "{0CA88EA5-8128-44CB-B275-7789F6CCA259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubes", "Cubes\Cubes.csproj", "{837B983A-A156-4184-895F-6B59AF14041F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0CA88EA5-8128-44CB-B275-7789F6CCA259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CA88EA5-8128-44CB-B275-7789F6CCA259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CA88EA5-8128-44CB-B275-7789F6CCA259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837B983A-A156-4184-895F-6B59AF14041F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837B983A-A156-4184-895F-6B59AF14041F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837B983A-A156-4184-895F-6B59AF14041F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837B983A-A156-4184-895F-6B59AF14041F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
