@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.15
+VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "SumOfCoins\SumOfCoins.csproj", "{FD8A6254-4CA0-4516-A475-9E1C219ED3DA}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCover", "SetCover\SetCover.csproj", "{909541FC-F819-4F7F-9D70-2CB2B3D4604A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCover.Tests", "SetCover.Tests\SetCover.Tests.csproj", "{3EA179B2-02B4-413C-9020-CEE0545A692B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionalKnap", "FractionalKnap\FractionalKnap.csproj", "{CA28D153-96C0-4D41-B68A-1EDF4650EEB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,15 @@ Global
 		{3EA179B2-02B4-413C-9020-CEE0545A692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA179B2-02B4-413C-9020-CEE0545A692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA179B2-02B4-413C-9020-CEE0545A692B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA28D153-96C0-4D41-B68A-1EDF4650EEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA28D153-96C0-4D41-B68A-1EDF4650EEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA28D153-96C0-4D41-B68A-1EDF4650EEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA28D153-96C0-4D41-B68A-1EDF4650EEB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C160558-CBFB-4FE7-950E-B9DF342BE721}
 	EndGlobalSection
 EndGlobal
