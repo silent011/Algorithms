@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsTour", "KnightsTour\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecturesSchedule", "LecturesSchedule\LecturesSchedule.csproj", "{AC87DC68-C483-4E9A-BD68-76C464B983D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgyptianFractions", "EgyptianFractions\EgyptianFractions.csproj", "{EA6AEDB5-9D80-466C-8FF6-38EFD9D6DD23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6AEDB5-9D80-466C-8FF6-38EFD9D6DD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6AEDB5-9D80-466C-8FF6-38EFD9D6DD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6AEDB5-9D80-466C-8FF6-38EFD9D6DD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6AEDB5-9D80-466C-8FF6-38EFD9D6DD23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
