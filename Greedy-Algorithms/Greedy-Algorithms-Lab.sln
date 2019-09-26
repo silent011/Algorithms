@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessorScheduling", "Proc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsTour", "KnightsTour\KnightsTour.csproj", "{27854B60-1D7E-41F4-B14E-313BD8743C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecturesSchedule", "LecturesSchedule\LecturesSchedule.csproj", "{AC87DC68-C483-4E9A-BD68-76C464B983D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{27854B60-1D7E-41F4-B14E-313BD8743C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27854B60-1D7E-41F4-B14E-313BD8743C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27854B60-1D7E-41F4-B14E-313BD8743C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC87DC68-C483-4E9A-BD68-76C464B983D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
