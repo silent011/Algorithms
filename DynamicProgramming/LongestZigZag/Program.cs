@@ -12,9 +12,6 @@ class Program
         int[] prevs = new int[arr.Length];
         int[] seqs = new int[arr.Length];
     
-       // int[] prevsB = new int[arr.Length];
-        //int[] seqsB = new int[arr.Length];
-
         List<int> result = new List<int>();
 
         Solution();
